@@ -3,6 +3,33 @@
 # ✋ ManosMexicanas 🤞
 </div>
 
+## Descripcion
+**ManosMexicanas** es una aplicación revolucionaria diseñada para **romper las barreras de comunicación** entre la comunidad sorda y oyente en México. Utilizando lo último en inteligencia artificial y visión por computadora, nuestra app **interpreta y traduce en tiempo real** la _Lengua de Señas Mexicana **(LSM)**_ para crear puentes de entendimiento mutuo.
+
+## Caracteristicas Principales
+- Interpretación instantánea de más de 200 señas LSM mediante cámara.
+- Tecnología MediaPipe Lite optimizada para dispositivos móviles
+- Precisión del **89%** incluso con movimientos rápidos
+
+## Tecnologia
+### Entorno de Desarrollo
+- **Android Studio** (Entorno de desarrollo oficial para Android). [Descarga Oficial]()
+
+### Lenguaje de Programación
+- **Kotlin** (Lenguaje principal de programación, moderno y 100% compatible con Java).
+
+### Bibliotecas Principales
+- **MediaPipe Task Vision** _(By Google)_
+  - Procesamiento de landmarks de manos en tiempo real.
+  - **Modelo preentrenado**: `hand_landmarker.task`
+  - **Funcionalidades**: Deteccion de 21 puntos clave por mano y seguimiento de movimientos.
+
+- **CameraX** _(Biblioteca Oficial de Android)_
+  - Captura de imágenes/video optimizada para diferentes dispositivos.
+  - Integración sencilla con PreviewView.
+
+## Requisitos del Sistema
+
 ## Control de Versiones
 - 🏷️ **Actual**: `v1.0.0`
 - 📅 **Fecha de creación**: `11 Abril 2025`
