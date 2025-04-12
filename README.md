@@ -3,8 +3,13 @@
 # ✋ ManosMexicanas 🤞
 </div>
 
+## Control de Versiones
+- 🏷️ **Actual**: `v1.0.0`
+- 📅 **Fecha de creación**: `11 Abril 2025`
+- 🔄 **Última actualización**: `11 Abril 2025`
+
 ## Estado del Proyecto
-**Estado:** `Inicial`
+**Estado**: `Inicial`
 
 > [!NOTE]
 > Este proyecto se encuentra en estado `Inicial`, lo que significa que se encuentra en fase de planificación y desarrollo inicial. Las funcionalidades básicas están siendo definidas y el sistema se encuentra en etapa de prototipado.
